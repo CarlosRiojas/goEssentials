@@ -1,0 +1,6 @@
+Investments Report
+Future Value is: $11742.413749999998
+Future Real Value: $11724.817728328608
+At these rates 
+Expected Rate: 5.5% 
+Inflation Rate: 5%
